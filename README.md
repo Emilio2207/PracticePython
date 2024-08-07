@@ -8,4 +8,4 @@
 
 ## Clase Video
 
-[Tiempo_video_56:29]-[https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_]
+[Tiempo_video_1:40:08]-[https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_]

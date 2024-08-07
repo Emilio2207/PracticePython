@@ -12,8 +12,11 @@ print("Hola Python")
 
 # Consultar tipo de dato
 
-print(type("Hola Python")) # <class 'str'>
-print(type(5)) # <class 'int'>
-print(type(1.5)) # <class 'float'>
-print(type(True)) # <class 'bool'>
-print(type(3+1j)) # <class 'complex'>
+print(type("Hola Python")) # Tipo <class 'str'>
+print(type(5)) # Tipo <class 'int'>
+print(type(1.5)) # Tipo <class 'float'>
+print(type(True)) # Tipo <class 'bool'>
+print(type(3+1j)) # Tipo <class 'complex'>
+
+print(type(print("Mi cadena de texto"))) # Tipo <class 'NoneType'> 
+
